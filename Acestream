@@ -7,11 +7,11 @@
 	"groups": [{
 			"name": "RAMSES",
 			"image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
-			"url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RC%20ACESTREAMS%20DIARIOS"
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RAMSES.png"
 		},
 		{
 			"name": "ELECTROPERRA",
-			"image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
+			"image": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/ELECTROPERRA.jpg",
 			"url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RC%20ACESTREAM%20DIARIOS%202"
 		}
 	]
