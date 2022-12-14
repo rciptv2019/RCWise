@@ -1,116 +1,109 @@
 {
-    "name": "CANALES DEPORTES",
-    "author": "RC",
-    "image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
-    "info": "RC",
-    "url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/CanalesDeportes",
-    "groups": [
-        {
-            "name": "MOVISTAR+",
-            "image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
-			"groups": [
-				{
+	"name": "CANALES DEPORTES",
+	"author": "RC",
+	"image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
+	"info": "RC",
+	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/CanalesDeportes",
+	"groups": [{
+			"name": "MOVISTAR+",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
+			"groups": [{
 					"name": "MOVISTAR+ LA LIGA",
 					"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
 					"groups": [
-						
-                        {
+
+						{
 							"name": "MOVISTAR+ LA LIGA",
-							"image": "https://cdn-icons-png.flaticon.com/512/4114/4114610.png",
-							"stations": [
-                                {
-                                    "name": "LINK 1",
-                                    "image": "",
-                                    "url": "https://webdi.openhd.lol/ddy1/premium84/tracks-v1/mono.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=84",
-                                    "embed": true
-                                },
-                                {
-                                    "name": "LINK 2",
-                                    "image": "",
-                                    "url": "https://webdi.openhd.lol/ddy1/premium84/index.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=84",
-                                    "embed": true
-                                },
-                                {
-                                    "name": "LINK 3",
-                                    "image": "",
-                                    "url": "https://webudi.openhd.lol/lb/premium84/index.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=84",
-                                    "embed": true
-                                }
-                            ]
+							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
+							"stations": [{
+									"name": "LINK 1",
+									"image": "",
+									"url": "https://webdi.openhd.lol/ddy1/premium84/tracks-v1/mono.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=84",
+									"embed": true
+								},
+								{
+									"name": "LINK 2",
+									"image": "",
+									"url": "https://webdi.openhd.lol/ddy1/premium84/index.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=84",
+									"embed": true
+								},
+								{
+									"name": "LINK 3",
+									"image": "",
+									"url": "https://webudi.openhd.lol/lb/premium84/index.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=84",
+									"embed": true
+								}
+							]
 						}
-                    ]
-                },
-                {
+					]
+				},
+				{
 					"name": "MOVISTAR+ LA LIGA SMARTBANK",
 					"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
 					"groups": [
-						
-                        {
+
+						{
 							"name": "MOVISTAR+ LA LIGA SMARTBANK",
-							"image": "https://cdn-icons-png.flaticon.com/512/4114/4114610.png",
-							"stations": [
-                                {
-                                    "name": "LINK 1",
-                                    "image": "",
-                                    "url": "https://webdi.openhd.lol/ddy6/premium539/index.m3u8",
-                                    "referer": "https://streamservicehd.click",
-                                    "embed": true
-                                },
-                                {
-                                    "name": "LINK 2",
-                                    "image": "",
-                                    "url": "https://webudi.openhd.lol/lb/premium539/index.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=539",
-                                    "embed": true
-                                }
-                            ]
+							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGS",
+							"stations": [{
+									"name": "LINK 1",
+									"image": "",
+									"url": "https://webdi.openhd.lol/ddy6/premium539/index.m3u8",
+									"referer": "https://streamservicehd.click",
+									"embed": true
+								},
+								{
+									"name": "LINK 2",
+									"image": "",
+									"url": "https://webudi.openhd.lol/lb/premium539/index.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=539",
+									"embed": true
+								}
+							]
 						}
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "DAZN",
-            "image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
-			"groups": [
-				{
-					"name": "MOVISTAR+ LA LIGA",
-					"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
-					"groups": [
-						
-                        {
-							"name": "DAZN LALIGA",
-							"image": "https://cdn-icons-png.flaticon.com/512/4114/4114610.png",
-							"stations": [
-                                {
-                                    "name": "LINK 1",
-                                    "image": "",
-                                    "url": "https://webdi.openhd.lol/ddy6/premium538/tracks-v1a1/mono.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-                                    "embed": true
-                                },
-                                {
-                                    "name": "LINK 2",
-                                    "image": "",
-                                    "url": "https://webdi.openhd.lol/ddy6/premium538/index.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-                                    "embed": true
-                                },
-                                {
-                                    "name": "LINK 3",
-                                    "image": "",
-                                    "url": "https://webudi.openhd.lol/lb/premium538/index.m3u8",
-                                    "referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-                                    "embed": true
-                                }
-                            ]
-						}
-                    ]
-                }
-            ]
-        }
-    ]
+					]
+				}
+			]
+		},
+		{
+			"name": "DAZN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
+			"groups": [{
+				"name": "DAZN LA LIGA",
+				"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
+				"groups": [
+
+					{
+						"name": "DAZN LALIGA 1",
+						"image": "https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI",
+						"stations": [{
+								"name": "LINK 1",
+								"image": "",
+								"url": "https://webdi.openhd.lol/ddy6/premium538/tracks-v1a1/mono.m3u8",
+								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
+								"embed": true
+							},
+							{
+								"name": "LINK 2",
+								"image": "",
+								"url": "https://webdi.openhd.lol/ddy6/premium538/index.m3u8",
+								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
+								"embed": true
+							},
+							{
+								"name": "LINK 3",
+								"image": "",
+								"url": "https://webudi.openhd.lol/lb/premium538/index.m3u8",
+								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
+								"embed": true
+							}
+						]
+					}
+				]
+			}]
+		}
+	]
 }
