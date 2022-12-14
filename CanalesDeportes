@@ -14,7 +14,7 @@
 
 						{
 							"name": "MOVISTAR+ LA LIGA",
-							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
+							"image": "https://raw.githubusercontent.com/rciptv2019/RCWise/LOGOS/MLIGA.png",
 							"stations": [{
 									"name": "LINK 1",
 									"image": "",
