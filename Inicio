@@ -4,7 +4,7 @@
     author: "RC",
     info: "RC",
     url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Inicio",
-    groups: [
+    stations: [
         {
             name: "CANALES MOVISTAR+",
             image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
