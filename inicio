@@ -1,0 +1,24 @@
+{
+    name: "LA LISTA DE RC",
+    image: "https://cdn-icons-png.flaticon.com/512/1527/1527148.png",
+    autor: "RC",
+    info: "RC",
+    url: "https://pastebin.com/raw/fzURG3wM",
+    groups: [
+        {
+            name: "MOVISTAR+",
+            image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
+            url: ""
+        },
+        {
+            name: "DEPORTES",
+            image: "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+            url: "https://pastebin.com/raw/wzk8ranp"
+        },
+        {
+            name: "PELICULAS",
+            image: "https://cdn-icons-png.flaticon.com/512/2991/2991552.png",
+            url: "https://pastebin.com/raw/fzURG3wM"
+        }
+    ]
+}
