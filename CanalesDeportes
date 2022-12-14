@@ -53,14 +53,14 @@
 									"image": "",
 									"url": "https://webdi.openhd.lol/ddy6/premium539/index.m3u8",
 									"referer": "https://streamservicehd.click",
-									"embed": true
+									"embed": false
 								},
 								{
 									"name": "LINK 2",
 									"image": "",
 									"url": "https://webudi.openhd.lol/lb/premium539/index.m3u8",
 									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=539",
-									"embed": true
+									"embed": false
 								}
 							]
 						}
@@ -84,21 +84,21 @@
 								"image": "",
 								"url": "https://webdi.openhd.lol/ddy6/premium538/tracks-v1a1/mono.m3u8",
 								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-								"embed": true
+								"embed": false
 							},
 							{
 								"name": "LINK 2",
 								"image": "",
 								"url": "https://webdi.openhd.lol/ddy6/premium538/index.m3u8",
 								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-								"embed": true
+								"embed": false
 							},
 							{
 								"name": "LINK 3",
 								"image": "",
 								"url": "https://webudi.openhd.lol/lb/premium538/index.m3u8",
 								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-								"embed": true
+								"embed": false
 							}
 						]
 					}
