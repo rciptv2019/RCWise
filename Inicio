@@ -6,12 +6,12 @@
     url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Inicio",
     groups: [
         {
-            name: "MOVISTAR+",
+            name: "CANALES MOVISTAR+",
             image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
             url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Movistar"
         },
         {
-            name: "DEPORTES",
+            name: "CANALES DEPORTES",
             image: "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
             url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Deportes"
         },
