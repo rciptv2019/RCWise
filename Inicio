@@ -16,6 +16,11 @@
             url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Deportes"
         },
         {
+            name: "MUNDIAL DE QATAR",
+            image: "https://brandemia.org/sites/default/files/inline/images/qatar-2022-logo-white-1-700x700.jpg",
+            url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Qatar"
+        },
+        {
             name: "PELICULAS",
             image: "https://cdn-icons-png.flaticon.com/512/2991/2991552.png",
             url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Peliculas"
