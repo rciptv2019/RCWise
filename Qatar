@@ -1,0 +1,44 @@
+{
+	"name": "QATAR",
+	"author": "RC",
+	"image": "https://brandemia.org/sites/default/files/inline/images/qatar-2022-logo-white-1-700x700.jpg",
+	"info": "RC",
+	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Qatar",
+	"stations": [{
+			"name": "LINK 1",
+			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
+			"url": "https://ed-t1.edghst.me/plyvivo/kobifi9u5ahucumotesi/chunklist.m3u8",
+			"referer": "https://www.nolive.me/sd0embed",
+			"embed": false
+		},
+		{
+			"name": "LINK 2",
+			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
+			"url": "https://ed-t1.edghst.me/plyvivo/e1l2e6h8s4e3z2o1l8a7/chunklist.m3u8",
+			"referer": "https://www.nolive.me/sd0embed",
+			"embed": false
+		},
+		{
+			"name": "LINK 3",
+			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
+			"url": "https://ed-t1.edghst.me/plyvivo/t6w5t2h9a5k3e9a4s9p7/chunklist.m3u8"",
+			"referer": "https://www.nolive.me/sd0embed",
+			"embed": false
+		},
+		{
+			"name": "LINK 4",
+			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
+			"url": "https://ed-t1.edghst.me/plyvivo/2ebu1ipi207ew0zeya8i/chunklist.m3u8",
+			"referer": "https://www.nolive.me/sd0embed",
+			"embed": false
+		},
+		{
+			"name": "LINK 5",
+			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
+			"url": "https://ed-t1.edghst.me/plyvivo/e6x1w2l8d8h6x6d2x6d7/chunklist.m3u8",
+			"referer": "https://www.nolive.me/sd0embed",
+			"embed": false
+		}
+	]
+
+}
