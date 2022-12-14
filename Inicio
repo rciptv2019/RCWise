@@ -13,7 +13,7 @@
         {
             name: "DEPORTES",
             image: "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
-            url: "https://pastebin.com/raw/wzk8ranp"
+            url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Deportes"
         },
         {
             name: "PELICULAS",
