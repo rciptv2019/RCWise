@@ -3,26 +3,26 @@
 	"image": "https://cdn-icons-png.flaticon.com/512/1527/1527148.png",
 	"author": "RC",
 	"info": "RC",
-	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Inicio",
+	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Inicio.w3u",
 	"groups": [{
 			"name": "CANALES MOVISTAR+",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
-			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Movistar"
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Movistar.w3u"
 		},
 		{
 			"name": "CANALES DEPORTES",
 			"image": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
-			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Deportes"
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Deportes.w3u"
 		},
 		{
 			"name": "MUNDIAL DE QATAR",
 			"image": "https://brandemia.org/sites/default/files/inline/images/qatar-2022-logo-white-1-700x700.jpg",
-			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Qatar"
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Qatar.w3u"
 		},
 		{
 			"name": "PELICULAS",
 			"image": "https://cdn-icons-png.flaticon.com/512/2991/2991552.png",
-			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Peliculas"
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Peliculas.w3u"
 		}
 	]
 }
