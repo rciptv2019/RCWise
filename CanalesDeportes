@@ -9,12 +9,12 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
 			"groups": [{
 					"name": "MOVISTAR+ LA LIGA",
-					"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
+					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
 					"groups": [
 
 						{
 							"name": "MOVISTAR+ LA LIGA",
-							"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
+							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
 							"stations": [{
 									"name": "LINK 1",
 									"image": "",
@@ -42,11 +42,11 @@
 				},
 				{
 					"name": "MOVISTAR+ LA LIGA SMARTBANK",
-					"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
+					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGS",
 					"groups": [
 
 						{
-							"name": "MOVISTAR+ LA LIGA SMARTBANK",
+							"name": "MOVISTAR+ LA LIGA SMARTBANK 1",
 							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGS",
 							"stations": [{
 									"name": "LINK 1",
@@ -73,7 +73,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
 			"groups": [{
 				"name": "DAZN LA LIGA",
-				"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
+				"image": "https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI",
 				"groups": [
 
 					{
