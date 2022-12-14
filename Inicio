@@ -1,7 +1,7 @@
 {
     name: "LA LISTA DE RC",
     image: "https://cdn-icons-png.flaticon.com/512/1527/1527148.png",
-    autor: "RC",
+    author: "RC",
     info: "RC",
     url: "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Inicio",
     groups: [
