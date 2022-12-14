@@ -1,21 +1,18 @@
-
-
 {
-    "name": "ACESTREAM",
-    "author": "RC",
-    "image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
-    "info": "RC",
-    "url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Acestream",
-    "groups": [
-        {
-            "name": "RAMSES",
-            "image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png"
-	    "url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RC%20ACESTREAMS%20DIARIOS
-        },
-        {
-            "name": "ELECTROPERRA",
-            "image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png"
-	    "url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RC%20ACESTREAM%20DIARIOS%202"
-        }
-    ]
+	"name": "ACESTREAM",
+	"author": "RC",
+	"image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
+	"info": "RC",
+	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Acestream",
+	"groups": [{
+			"name": "RAMSES",
+			"image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RC%20ACESTREAMS%20DIARIOS"
+		},
+		{
+			"name": "ELECTROPERRA",
+			"image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCacediariosRC/main/RC%20ACESTREAM%20DIARIOS%202"
+		}
+	]
 }
