@@ -11,6 +11,11 @@
             "url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/CanalesDeportes"
         },
         {
+			"name": "MUNDIAL DE QATAR",
+			"image": "https://brandemia.org/sites/default/files/inline/images/qatar-2022-logo-white-1-700x700.jpg",
+			"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Qatar"
+		},
+        {
             "name": "LISTAS ACESTREAM",
             "image": "https://img1.freepng.es/20180816/fge/kisspng-ace-stream-android-application-package-download-st-ace-stream-engine-on-google-play-reviews-stats-5b75f276893425.021242301534456438562.jpg",
             "url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Acestream"
