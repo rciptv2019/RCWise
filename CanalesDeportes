@@ -4,10 +4,12 @@
 	"image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
 	"info": "RC",
 	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/CanalesDeportes",
-	"groups": [{
+	"groups": [
+		{
 			"name": "MOVISTAR+",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
-			"groups": [{
+			"groups": [
+				{
 					"name": "MOVISTAR+ LA LIGA",
 					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
 					"groups": [
@@ -15,7 +17,8 @@
 						{
 							"name": "MOVISTAR+ LA LIGA",
 							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
-							"stations": [{
+							"stations": [
+								{
 									"name": "LINK 1",
 									"image": "",
 									"url": "https://webdi.openhd.lol/ddy1/premium84/tracks-v1/mono.m3u8",
@@ -78,48 +81,51 @@
 		{
 			"name": "DAZN",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-			"groups": [{
-				"name": "DAZN LA LIGA",
-				"image": "https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI",
-				"groups": [
-
-					{
-						"name": "DAZN LALIGA 1",
-						"image": "https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI",
-						"stations": [{
-								"name": "LINK 1",
-								"image": "",
-								"url": "https://webdi.openhd.lol/ddy6/premium538/tracks-v1a1/mono.m3u8",
-								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-								"embed": false
-							},
-							{
-								"name": "LINK 2",
-								"image": "",
-								"url": "https://webdi.openhd.lol/ddy6/premium538/index.m3u8",
-								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-								"embed": false
-							},
-							{
-								"name": "LINK 3",
-								"image": "",
-								"url": "https://webudi.openhd.lol/lb/premium538/index.m3u8",
-								"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
-								"embed": false
-							}
-						]
-					}
-				]
-			}]
+			"groups": [
+				{
+					"name": "DAZN LA LIGA",
+					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI",
+					"groups": [
+						{
+							"name": "DAZN LALIGA 1",
+							"image": "https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI",
+							"stations": [
+								{
+									"name": "LINK 1",
+									"image": "",
+									"url": "https://webdi.openhd.lol/ddy6/premium538/tracks-v1a1/mono.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
+									"embed": false
+								},
+								{
+									"name": "LINK 2",
+									"image": "",
+									"url": "https://webdi.openhd.lol/ddy6/premium538/index.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
+									"embed": false
+								},
+								{
+									"name": "LINK 3",
+									"image": "",
+									"url": "https://webudi.openhd.lol/lb/premium538/index.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=538",
+									"embed": false
+								}
+							]
+						}
+					]
+				}
+			]
 		},
 		{
 			"name": "EUROSPORT",
 			"image": "https://www.industriadeltenis.com/wp-content/uploads/2016/08/logo-esp-og-new.jpg",
-			"groups": [{
-
+			"groups": [
+				{
 					"name": "EUROSPORT 1",
 					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP",
-					"stations": [{
+					"stations": [
+						{
 							"name": "LINK 1",
 							"image": "",
 							"url": "https://webdi.openhd.lol/ddy1/premium524/tracks-v1a1/mono.m3u8",
@@ -141,13 +147,11 @@
 							"embed": false
 						}
 					]
-
 				},
 				{
 					"name": "EUROSPORT 2",
 					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP2",
 					"stations": [
-
 						{
 							"name": "LINK 1",
 							"image": "",
