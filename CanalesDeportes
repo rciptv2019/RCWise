@@ -117,58 +117,60 @@
 			"image": "https://www.industriadeltenis.com/wp-content/uploads/2016/08/logo-esp-og-new.jpg",
 			"groups": [{
 
-				"name": "EUROSPORT 1",
-				"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP",
-				"stations": [{
-						"name": "LINK 1",
-						"image": "",
-						"url": "https://webdi.openhd.lol/ddy1/premium524/tracks-v1a1/mono.m3u8",
-						"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
-						"embed": false
-					},
-					{
-						"name": "LINK 2",
-						"image": "",
-						"url": "https://webdi.openhd.lol/ddy1/premium524/index.m3u8",
-						"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
-						"embed": false
-					},
-					{
-						"name": "LINK 3",
-						"image": "",
-						"url": "https://webudi.openhd.lol/lb/premium524/index.m3u8",
-						"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
-						"embed": false
-					}
-				]
-			}]
-		},
-		{
-			"name": "EUROSPORT 2",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP2",
-			"stations": [
+					"name": "EUROSPORT 1",
+					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP",
+					"stations": [{
+							"name": "LINK 1",
+							"image": "",
+							"url": "https://webdi.openhd.lol/ddy1/premium524/tracks-v1a1/mono.m3u8",
+							"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
+							"embed": false
+						},
+						{
+							"name": "LINK 2",
+							"image": "",
+							"url": "https://webdi.openhd.lol/ddy1/premium524/index.m3u8",
+							"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
+							"embed": false
+						},
+						{
+							"name": "LINK 3",
+							"image": "",
+							"url": "https://webudi.openhd.lol/lb/premium524/index.m3u8",
+							"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
+							"embed": false
+						}
+					]
 
-				{
-					"name": "LINK 1",
-					"image": "",
-					"url": "https://webdi.openhd.lol/ddy1/premium525/tracks-v1a1/mono.m3u8",
-					"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
-					"embed": false
 				},
 				{
-					"name": "LINK 2",
-					"image": "",
-					"url": "https://webdi.openhd.lol/ddy1/premium525/index.m3u8",
-					"referer": "https: //streamservicehd.click/premiumtv/daddyhd.php?id=525",
-					"embed": false
-				},
-				{
-					"name": "LINK 3",
-					"image": "",
-					"url": "https://webudi.openhd.lol/lb/premium525/index.m3u8",
-					"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
-					"embed": false
+					"name": "EUROSPORT 2",
+					"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP2",
+					"stations": [
 
+						{
+							"name": "LINK 1",
+							"image": "",
+							"url": "https://webdi.openhd.lol/ddy1/premium525/tracks-v1a1/mono.m3u8",
+							"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
+							"embed": false
+						},
+						{
+							"name": "LINK 2",
+							"image": "",
+							"url": "https://webdi.openhd.lol/ddy1/premium525/index.m3u8",
+							"referer": "https: //streamservicehd.click/premiumtv/daddyhd.php?id=525",
+							"embed": false
+						},
+						{
+							"name": "LINK 3",
+							"image": "",
+							"url": "https://webudi.openhd.lol/lb/premium525/index.m3u8",
+							"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
+							"embed": false
+
+						}
+					]
 				}
 			]
 		}
