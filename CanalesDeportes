@@ -114,11 +114,11 @@
 		},
 		{
 			"name": "EUROSPORT",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
+			"image": "https://www.industriadeltenis.com/wp-content/uploads/2016/08/logo-esp-og-new.jpg",
 			"groups": [{
 
 				"name": "EUROSPORT 1",
-				"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
+				"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP",
 				"stations": [{
 						"name": "LINK 1",
 						"image": "",
@@ -145,7 +145,7 @@
 		},
 		{
 			"name": "EUROSPORT 2",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGS",
+			"image": "https://www.movistarplus.es/recorte/m-NEO/externo/ESP2",
 			"stations": [
 
 				{
@@ -159,7 +159,7 @@
 					"name": "LINK 2",
 					"image": "",
 					"url": "https://webdi.openhd.lol/ddy1/premium525/index.m3u8",
-					"referer": https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
+					"referer": "https: //streamservicehd.click/premiumtv/daddyhd.php?id=525",
 					"embed": false
 				},
 				{
