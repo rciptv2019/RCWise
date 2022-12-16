@@ -51,12 +51,19 @@
 							"stations": [{
 									"name": "LINK 1",
 									"image": "",
-									"url": "https://webdi.openhd.lol/ddy6/premium539/index.m3u8",
-									"referer": "https://streamservicehd.click",
+									"url": "https://webdi.openhd.lol/ddy6/premium539/tracks-v1a1/mono.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=539",
 									"embed": false
 								},
 								{
 									"name": "LINK 2",
+									"image": "",
+									"url": "https://webudi.openhd.lol/lb/premium539/index.m3u8",
+									"referer": "https://webdi.openhd.lol/ddy6/premium539/index.m3u8",
+									"embed": false
+								},
+								{
+									"name": "LINK 3",
 									"image": "",
 									"url": "https://webudi.openhd.lol/lb/premium539/index.m3u8",
 									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=539",
