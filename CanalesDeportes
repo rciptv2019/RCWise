@@ -59,7 +59,7 @@
 									"name": "LINK 2",
 									"image": "",
 									"url": "https://webudi.openhd.lol/lb/premium539/index.m3u8",
-									"referer": "https://webdi.openhd.lol/ddy6/premium539/index.m3u8",
+									"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=539",
 									"embed": false
 								},
 								{
@@ -111,6 +111,66 @@
 					}
 				]
 			}]
+		},
+		{
+			"name": "EUROSPORT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
+			"groups": [{
+
+				"name": "EUROSPORT 1",
+				"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGA",
+				"stations": [{
+						"name": "LINK 1",
+						"image": "",
+						"url": "https://webdi.openhd.lol/ddy1/premium524/tracks-v1a1/mono.m3u8",
+						"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
+						"embed": false
+					},
+					{
+						"name": "LINK 2",
+						"image": "",
+						"url": "https://webdi.openhd.lol/ddy1/premium524/index.m3u8",
+						"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
+						"embed": false
+					},
+					{
+						"name": "LINK 3",
+						"image": "",
+						"url": "https://webudi.openhd.lol/lb/premium524/index.m3u8",
+						"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=524",
+						"embed": false
+					}
+				]
+			}]
+		},
+		{
+			"name": "EUROSPORT 2",
+			"image": "https://www.movistarplus.es/recorte/m-NEO/externo/MLIGS",
+			"stations": [
+
+				{
+					"name": "LINK 1",
+					"image": "",
+					"url": "https://webdi.openhd.lol/ddy1/premium525/tracks-v1a1/mono.m3u8",
+					"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
+					"embed": false
+				},
+				{
+					"name": "LINK 2",
+					"image": "",
+					"url": "https://webdi.openhd.lol/ddy1/premium525/index.m3u8",
+					"referer": https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
+					"embed": false
+				},
+				{
+					"name": "LINK 3",
+					"image": "",
+					"url": "https://webudi.openhd.lol/lb/premium525/index.m3u8",
+					"referer": "https://streamservicehd.click/premiumtv/daddyhd.php?id=525",
+					"embed": false
+
+				}
+			]
 		}
 	]
 }
