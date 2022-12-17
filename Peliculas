@@ -1,31 +1,42 @@
 {
-    "name": "PELICULAS",
-    "author": "RC",
-    "image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
-    "info": "RC",
-    "url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Peliculas",
-    "groups": [
-        {
-            "name": "Ultimos Estrenos",
-            "image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
-			"groups": [
-				{
-					"name": "Hacia la libertad (Emancipation)(2022)",
-					"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
-					"stations": [
-						{
-							"name": "Trailer",
-							"image": "https://cdn-icons-png.flaticon.com/512/4114/4114610.png",
-							"url": "https://www.sensacine.com/peliculas/pelicula-284509/"
-						},
-						{
-							"name": "Pelicula",
-							"image": "https://cdn-icons-png.flaticon.com/512/6191/6191169.png",
-							"url" : "https://uqload.com/97qs96rhd2m3.html"
-						}
-					]
-                }
-            ]
-        }
-    ]
+	"name": "PELICULAS",
+	"author": "RC",
+	"image": "https://cdn-icons-png.flaticon.com/512/3364/3364355.png",
+	"info": "RC",
+	"url": "https://raw.githubusercontent.com/rciptv2019/RCWise/main/Peliculas",
+	"groups": [{
+		"name": "Ultimos Estrenos",
+		"image": "https://cdn-icons-png.flaticon.com/512/6347/6347836.png",
+		"groups": [{
+				"name": "Avatar: El sentido del agua(2022) (DVD/BR Screener LATINO)",
+				"image": "https://hdfullcdn.cc/tthumb/172x256/movie_73fd509b3e05f7066357f8586fb0773e.jpg",
+				"stations": [{
+						"name": "Trailer",
+						"image": "https://cdn-icons-png.flaticon.com/512/4114/4114610.png",
+						"url": "https://www.dailymotion.com/cdn/manifest/video/x8fqd12.m3u8?sec=Wei6ozb4ABTyFqN_pCTPtqFU025_mpfEgc3Fp2tGSm3Xu_DizRH8KzCtYEQDIs93Q9CtZ_sNEX26BG2hu6gNKQ&dmTs=559545&dmV1st=9FB22CC1A8E20EDDC048E4066A461FA3"
+					},
+					{
+						"name": "Pelicula",
+						"image": "https://cdn-icons-png.flaticon.com/512/6191/6191169.png",
+						"url": "https://stream-3891-64-63.pvdcdn.co/lmohoecogeikkfn2mcx7qmkohmyf53wamrv3cm34ykwfdufntyhgevsswm/v.mp4"
+					}
+				]
+			},
+			{
+				"name": "Hacia la libertad (Emancipation)(2022)",
+				"image": "https://www.pelitorrent.com/wp-content/uploads/2022/12/zQe7paVC4tSwb8vBwxSqajJ22Ue-193x288.jpg",
+				"stations": [{
+						"name": "Trailer",
+						"image": "https://cdn-icons-png.flaticon.com/512/4114/4114610.png",
+						"url": "https://www.sensacine.com/peliculas/pelicula-284509/"
+					},
+					{
+						"name": "Pelicula",
+						"image": "https://cdn-icons-png.flaticon.com/512/6191/6191169.png",
+						"url": "https://uqload.com/97qs96rhd2m3.html"
+					}
+				]
+			}
+		]
+	}]
 }
