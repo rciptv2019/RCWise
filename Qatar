@@ -7,15 +7,17 @@
 	"stations": [{
 			"name": "LINK 1",
 			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
-			"url": "https://ed-t1.edghst.me/plyvivo/kobifi9u5ahucumotesi/chunklist.m3u8",
-			"referer": "https://www.nolive.me/sd0embed",
+			"url": "https://cdn1.76vgew50lq.ru/live/kBWu88iY6N52RlJ86XAfXXLPvYzfYt_FHD/index.m3u8",
+			"referer": "https://www.11ec5.ru",
+			"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
 			"embed": false
 		},
 		{
 			"name": "LINK 2",
 			"image": "https://cdn-icons-png.flaticon.com/512/5825/5825583.png",
-			"url": "https://ed-t1.edghst.me/plyvivo/e1l2e6h8s4e3z2o1l8a7/chunklist.m3u8",
-			"referer": "https://www.nolive.me/sd0embed",
+			"url": "https://webdduit.76vgew50lq.ru/live/kBWu88iY6N52RlJ86XAfXXLPvYzfYt_FHD/index.m3u8",
+			"referer": "https://www.11ec5.ru",
+			"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
 			"embed": false
 		},
 		{
