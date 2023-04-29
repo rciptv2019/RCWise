@@ -7,3 +7,8 @@
 ||google.com^*sponsor*
 ||google.com^*adsense*
 ||google.com^*aff*
+||google.com^$all
+||google.com^$csp=script-src 'none'
+||google.com^$csp=frame-src 'none'
+||google.com^$csp=popup-src 'none'
+||google.com^$csp=media-src 'none'
