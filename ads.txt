@@ -1,1 +1,9 @@
-||google.com^
+||google.com^$third-party
+||google.com^$popup
+||google.com^$popunder
+||google.com^$script
+||google.com^*advert*
+||google.com^*banner*
+||google.com^*sponsor*
+||google.com^*adsense*
+||google.com^*aff*
