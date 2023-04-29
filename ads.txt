@@ -1,16 +1,14 @@
-||google.com^$third-party
-||google.com^$popup
-||google.com^$popunder
-||google.com^$script
-||google.com^*advert*
-||google.com^*banner*
-||google.com^*sponsor*
-||google.com^*adsense*
-||google.com^*aff*
-||google.com^$all
-||google.com^$csp=script-src 'none'
-||google.com^$csp=frame-src 'none'
-||google.com^$csp=popup-src 'none'
-||google.com^$csp=media-src 'none'
-
-https://eveald.com/prod/ngo.html?lu=https%3A%2F%2Fnetech.postaffiliatepro.com%2Fscripts%2Fyf5u6ca8%3Fa_aid%3D57f775e395845%26a_bid%3D2775e710%26data1%3D1682793865099910TESTV62a09Rbac1R23a0R78RR28R446V1a940%26data2%3D3744089-3834462619-0
+||eveald.com^$third-party
+||eveald.com^$popup
+||eveald.com^$popunder
+||eveald.com^$script
+||eveald.com^*advert*
+||eveald.com^*banner*
+||eveald.com^*sponsor*
+||eveald.com^*adsense*
+||eveald.com^*aff*
+||eveald.com^$all
+||eveald.com^$csp=script-src 'none'
+||eveald.com^$csp=frame-src 'none'
+||eveald.com^$csp=popup-src 'none'
+||eveald.com^$csp=media-src 'none'
