@@ -18,7 +18,7 @@
 			"url": "https://webdduit.76vgew50lq.ru/live/kBWu88iY6N52RlJ86XAfXXLPvYzfYt_FHD/index.m3u8",
 			"referer": "https://www.11ec5.ru",
 			"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-			"embed": false
+			"embed": true
 		},
 		{
 			"name": "LINK 3",
