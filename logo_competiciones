@@ -1,0 +1,58 @@
+[
+  {
+    "name": "La Liga",
+    "image": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+  },
+  {
+    "name": "La Liga Smartbank",
+    "image": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+  },
+  {
+    "name": "Champions League",
+    "image": "https://logowik.com/content/uploads/images/994_champions_league.jpg"
+  },
+  {
+    "name": "UEFA",
+    "image": "https://logowik.com/content/uploads/images/290_uefa_europa_league_logo.jpg"
+  },
+  {
+    "name": "Formula 1",
+    "image": "https://logowik.com/content/uploads/images/f1-formula-18381.jpg"
+  },
+  {
+    "name": "Liga Smartbank",
+    "image": "https://logowik.com/content/uploads/images/laliga-smartbank7633.logowik.com.webp"
+  },
+  {
+    "name": "Premier League",
+    "image": "https://logowik.com/content/uploads/images/premier-league9031.jpg"
+  },
+  {
+    "name": "Serie A",
+    "image": "https://logowik.com/content/uploads/images/lega-serie-a9060.jpg"
+  },
+  {
+    "name": "Ligue 1",
+    "image": "https://logowik.com/content/uploads/images/ligue-1-uber-eats1945.jpg"
+  },
+  {
+    "name": "Eredivisie",
+    "image": "https://logowik.com/content/uploads/images/eredivisie9629.jpg"
+  },
+  {
+    "name": "UFC",
+    "image": "https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg"
+  },
+  {
+    "name": "Roland Garros",
+    "image": "https://logowik.com/content/uploads/images/roland-garros3135.jpg"
+  },
+  {
+    "name": "Primera Federacion",
+    "image": "https://pbs.twimg.com/media/FcNMPadWIAEjVV-.jpg"
+  },
+  {
+    "name": "Giro de Italia",
+    "image": "https://pbs.twimg.com/media/FuTnt1SWcAENtDe?format=jpg&name=900x900"
+  }
+]
